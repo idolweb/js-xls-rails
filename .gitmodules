@@ -1,0 +1,3 @@
+[submodule "js-xls"]
+	path = js-xls
+	url = https://github.com/SheetJS/js-xls
