@@ -23,7 +23,7 @@ Or install it yourself as:
 
 Add the following to any JavaScript file:
 
-    //= require xlsjs
+    //= require xls
     
 ## Versioning
 
